@@ -11,6 +11,19 @@ Nos dirgimos siempre a links fiable, en este caso
 
 y nos lo descargamos.
 
+Si queremos abrir con la terminal, o iTerm VSCode
+
+
+Abre VS Code y abre la terminal con Commando + Shift + P (or F1)
+
+Escribe en la barra de buscar
+    
+    Select Shell Command: Install code in PATH from suggested list
+
+Ahora ya puedes cojer la terminal fuera de VS Code, vas a cualquier carpeta con el comando "cd" y ejecutas
+
+    code .
+
 
 ##### Acerca de esta guía
 
