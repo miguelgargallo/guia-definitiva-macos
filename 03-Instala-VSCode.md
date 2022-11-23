@@ -14,13 +14,13 @@ y nos lo descargamos.
 
 ##### Acerca de esta guía
 
+Ir al siguiente:
+Link
+
 Este es el capítulo:
 Link
 
 Ir atrás:
-Link
-
-Ir al siguiente:
 Link
 
 

@@ -15,13 +15,13 @@ Este puede tardar, tengamos paciencia, en mi experiencia, ha tardado 8 minutos.
 
 ##### Acerca de esta guía
 
+Ir al siguiente:
+Link
+
 Este es el capítulo:
 Link
 
 Ir atrás:
-Link
-
-Ir al siguiente:
 Link
 
 
