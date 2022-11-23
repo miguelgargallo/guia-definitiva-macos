@@ -19,10 +19,10 @@ Ir al siguiente:
 Link
 
 Este es el capítulo:
-Link
+[Instala Brew](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-Brew.md)
 
 Ir atrás:
-Link
+[Instala VSCode](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-VSCode.md)
 
 
 ##### Acerca de otras guías

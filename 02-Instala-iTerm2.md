@@ -15,13 +15,13 @@ y nos lo descargamos.
 ##### Acerca de esta guía
 
 Ir al siguiente:
-Link
+[Instala VSCode](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-VSCode.md)
 
 Este es el capítulo:
 [Instala iTerm2](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-iTerm2.md)
 
 Ir atrás:
-Link
+[Instala Firefox](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-Firefox.md)
 
 
 ##### Acerca de otras guías

@@ -15,13 +15,13 @@ y nos lo descargamos.
 ##### Acerca de esta guía
 
 Ir al siguiente:
-Link
+[Instala Brew](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-Brew.md)
 
 Este es el capítulo:
-Link
+[Instala VSCode](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-VSCode.md)
 
 Ir atrás:
-Link
+[Instala iTerm2](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-iTerm2.md)
 
 
 ##### Acerca de otras guías
