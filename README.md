@@ -1,4 +1,4 @@
-
+![Guia Definitiva macOS por Miguel Gargallo](https://user-images.githubusercontent.com/5947268/203578247-626a512b-f8ce-4c12-95ba-12a23b407a52.png)
 
 # Guia Definitiva macOS.
 
