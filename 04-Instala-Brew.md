@@ -1,9 +1,8 @@
 # Guía Definitiva macOS por Miguel Gargallo
 
 
-#### Capítulo 01
+#### Capítulo 04
 ## Descarga e Instala Brew
-curl https://sh.rustup.rs -sSf | sh
 
 Nos dirgimos siempre a links fiable, en este caso
 
@@ -24,13 +23,13 @@ Para confirmar que la instalación ha ido correctamente, ejecutamos:
 ##### Acerca de esta guía
 
 Ir al siguiente:
-[Instala Rust](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/04-Instala-Rust.md)
+[Instala Rust](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/05-Instala-Rust.md)
 
 Este es el capítulo:
-[Instala Brew](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-Brew.md)
+[Instala Brew](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/04-Instala-Brew.md)
 
 Ir atrás:
-[Instala VSCode](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-VSCode.md)
+[Instala VSCode](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/03-Instala-VSCode.md)
 
 
 ##### Acerca de otras guías

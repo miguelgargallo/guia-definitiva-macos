@@ -4,7 +4,7 @@
 #### Capítulo 01
 ## Descarga e Instala Rust
 
-Ejecutamos este comando en iTerm 2
+Ejecutamos este comando en Rust
 
     curl https://sh.rustup.rs -sSf | sh
 
@@ -23,13 +23,13 @@ Para confirmar que la instalación ha ido correctamente, ejecutamos:
 ##### Acerca de esta guía
 
 Ir al siguiente:
-[Instala Rust](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/04-Instala-Rust.md)
+
 
 Este es el capítulo:
-[Instala Rust](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/04-Instala-Rust.md)
+[Instala Rust](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/05-Instala-Rust.md)
 
 Ir atrás:
-[Instala Brew](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-Brew.md)
+[Instala Brew](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/04-Instala-Brew.md)
 
 
 ##### Acerca de otras guías
