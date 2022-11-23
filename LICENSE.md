@@ -1,7 +1,3 @@
-# Guía Definitiva macOS por Miguel Gargallo.
-
-
-
 You can use this as a template for your projects, just use the template or fork! and delete this file and mantain "License.md"
 
 - - - - -
