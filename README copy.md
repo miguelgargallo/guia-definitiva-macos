@@ -1,3 +1,8 @@
+# Guia Definitiva macOS.
+
+
+Disclaimer: macOS y Apple es una marca de Apple, y esta guía ni el desarrollador está afiliado con Apple ni somos parte de Apple.
+
 You can use this as a template for your projects, just use the template or fork! and delete this file and mantain "License.md"
 
 - - - - -
