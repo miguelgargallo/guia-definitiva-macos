@@ -24,7 +24,7 @@ Para confirmar que la instalación ha ido correctamente, ejecutamos:
 ##### Acerca de esta guía
 
 Ir al siguiente:
-[Readme](https://github.com/miguelgargallo/guia-definitiva-macos#readme)
+[Instala Rust](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/04-Instala-Rust.md)
 
 Este es el capítulo:
 [Instala Brew](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-Brew.md)

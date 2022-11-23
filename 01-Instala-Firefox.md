@@ -20,6 +20,9 @@ Ir al siguiente:
 Este es el capítulo:
 [Instala Firefox](https://github.com/miguelgargallo/guia-definitiva-macos/blob/main/01-Instala-Firefox.md)
 
+Ir atrás:
+[Readme](https://github.com/miguelgargallo/guia-definitiva-macos#readme)
+
 
 ##### Acerca de otras guías
 
