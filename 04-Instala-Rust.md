@@ -2,23 +2,22 @@
 
 
 #### Capítulo 01
-## Descarga e Instala Brew
-curl https://sh.rustup.rs -sSf | sh
+## Descarga e Instala Rust
 
-Nos dirgimos siempre a links fiable, en este caso
+Ejecutamos este comando en iTerm 2
 
-    https://brew.sh
+    curl https://sh.rustup.rs -sSf | sh
 
-y copiamos y pegamos el comando en iTerm2.
-Este puede tardar, tengamos paciencia, en mi experiencia, ha tardado 8 minutos.
+Le damos a la opción 1, y nos esperamos
+Este puede tardar, tengamos paciencia, en mi experiencia.
 
 Ejecutaríamos:
 
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    source "$HOME/.cargo/env"
 
 Para confirmar que la instalación ha ido correctamente, ejecutamos:
 
-    brew -v
+    cargo --version
 
 
 ##### Acerca de esta guía
